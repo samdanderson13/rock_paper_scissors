@@ -120,3 +120,4 @@ def human(prev_opponent_play):
 
 def random_player(prev_opponent_play):
     return random.choice(['R', 'P', 'S'])
+
